@@ -1,2 +1,16 @@
-# frlegends-lua-re
-A personal reverse engineering lab focused on memory structures, offsets, hex values, and Lua scripting, using FR Legends as a real-world target.
+# FR Legends RE Lab
+
+A personal reverse engineering lab focused on understanding memory structures, offsets, Unity IL2CPP internals, and Lua tooling through hands-on analysis of FR Legends.
+
+Topics explored include:
+
+* Runtime memory structures
+* Data layout analysis
+* IL2CPP metadata
+* Native code inspection
+* Object offsets
+* ARM64 reverse engineering
+* Ghidra workflows
+* Unity game architecture
+
+The project serves as a practical environment for learning reverse engineering concepts and documenting discoveries.
