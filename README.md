@@ -13,5 +13,5 @@ Topics explored include:
 * Ghidra workflows
 * Unity game architecture
 - Lua Game Guardian Scripting
-  
+ 
 The project serves as a practical environment for learning reverse engineering concepts and documenting discoveries.
