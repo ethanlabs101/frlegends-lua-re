@@ -11,7 +11,9 @@ Topics explored include:
 * Object offsets
 * ARM64 reverse engineering
 * Ghidra workflows
+* ghex workflow
 * Unity game architecture
-- Lua Game Guardian Scripting
- 
+* Lua Game Guardian Scripting
+* Game Guardian methods and techniques
+
 The project serves as a practical environment for learning reverse engineering concepts and documenting discoveries.
