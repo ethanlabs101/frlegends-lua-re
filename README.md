@@ -16,4 +16,5 @@ Topics explored include:
 * Lua Game Guardian Scripting
 * Game Guardian methods and techniques
 
+
 The project serves as a practical environment for learning reverse engineering concepts and documenting discoveries.
