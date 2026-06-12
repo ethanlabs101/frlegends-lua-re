@@ -23,5 +23,5 @@ The project serves as a practical environment for learning reverse engineering c
 
 | Name | Description |
 |------|-------------|
-|[GG-Engine]() |  Ultimate Game Guardian Scripting Engine with field offset finder + method patching. |
+|[GG Engine]() |  Ultimate Game Guardian Scripting Engine with field offset finder + method patching. |
 |[FR Legends Map]() | FR Legends experimentation / findings documentation. |
