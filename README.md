@@ -18,3 +18,10 @@ Topics explored include:
 
 
 The project serves as a practical environment for learning reverse engineering concepts and documenting discoveries.
+
+---
+
+| Name | Description |
+|------|-------------|
+|[GG-Engine]() |  Ultimate Game Guardian Scripting Engine with field offset finder + method patching. |
+|[FR Legends Map]() | FR Legends experimentation / findings documentation. |
